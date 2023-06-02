@@ -78,6 +78,8 @@
 ![GitHub Sponsors](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Sponsors&color=EA4AAA&logo=GitHub+Sponsors&logoColor=FFFFFF&label=)
 ![WooCommerce](https://img.shields.io/static/v1?style=for-the-badge&message=WooCommerce&color=96588A&logo=WooCommerce&logoColor=FFFFFF&label=)
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=) 
+![Shopify](https://img.shields.io/static/v1?style=for-the-badge&message=Shopify&color=222222&logo=Shopify&logoColor=7AB55C&label=)
+ 
  
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />Otras tecnologías
  
