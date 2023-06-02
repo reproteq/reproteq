@@ -1,12 +1,13 @@
 <div  align="center">
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" 
+/>
 Web site
  
 <p>
-<img src="https://reproteq.com/vendor/shop/themes/default/media/reproteq_logo_svg_fusion.svg" width="250" />
+<img src="https://reproteq.com/vendor/shop/themes/default/media/reproteq_logo_svg_fusion.svg" width="450" />
 </p>
 <p>
-<img src="https://fixhex.com/assets/images/fixhex.svg" width="250" />
+<img src="https://fixhex.com/assets/images/fixhex.svg" width="450" />
 </p>
  
 
