@@ -84,6 +84,8 @@
 ![](https://img.shields.io/badge/Tools-Proxmox-informational?style=flat&logo=proxmox&logoColor=yellow&color=yellow)
 ![](https://img.shields.io/badge/Code-Telegram-bot?style=flat&logo=telegram&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tecnologia-Nginx-brightgreen?style=flat&logo=NGINX&logoColor=white&color=009639)
+![](https://img.shields.io/badge/Tecnologia-Nextcloud-brightblue?style=flat&logo=NGINX&logoColor=white&color=0082C9)
+ ![Nextcloud](https://img.shields.io/static/v1?style=for-the-badge&message=Nextcloud&color=0082C9&logo=Nextcloud&logoColor=FFFFFF&label=)
 
 
 
