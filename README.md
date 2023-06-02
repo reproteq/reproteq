@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/c-sharp-339933?style=for-the-badge&logo=c-sharp&logoColor=white" /
+  <img src="https://img.shields.io/badge/Ruby-323330?style=for-the-badge&logo=ruby&logoColor=F7DF1E" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />Frameworks y Librerias
