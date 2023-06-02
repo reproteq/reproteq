@@ -83,7 +83,7 @@
 ![](https://img.shields.io/badge/Tools-Plesk-informational?style=flat&logo=plesk&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/Tools-Proxmox-informational?style=flat&logo=proxmox&logoColor=yellow&color=yellow)
 ![](https://img.shields.io/badge/Code-Telegram-bot?style=flat&logo=telegram&logoColor=white&color=blue)
-![](https://img.shields.io/badge/NGINX?style=flat&logo=NGINX&logoColor=white&color=009639)
+![](https://img.shields.io/badge/Tecnologia-Nginx-brightgreen?style=flat&logo=NGINX&logoColor=white&color=009639)
 
 
 
