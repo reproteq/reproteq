@@ -7,21 +7,21 @@
  
  
 <p>
-<img src="https://reproteq.com/vendor/shop/themes/default/media/reproteq_logo_svg_fusion.svg" width="450" />
+ <img src="https://reproteq.com/vendor/shop/themes/default/media/reproteq_logo_svg_fusion.svg" width="450" />
 </p>
  
  
 <p>
-<img src="https://fixhex.com/assets/images/fixhex.svg" width="450" />
+ <img src="https://fixhex.com/assets/images/fixhex.svg" width="450" />
 </p>
  
 
  
-<p>
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Mis Habilidades <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />Lenguajes de Programación
-</p>
+
  <p>
    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
