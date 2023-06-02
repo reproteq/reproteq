@@ -65,6 +65,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Plesk-informational?style=flat&logo=plesk&logoColor=blue&color=blue)
+ ![](https://img.shields.io/badge/Tools-Proxmox-informational?style=flat&logo=proxmox&logoColor=yellow&color=yellow)
 
 
  
