@@ -7,7 +7,7 @@
  
  
 <p>
- <ahref="https://reproteq.com/"><img src="https://reproteq.com/vendor/shop/themes/default/media/reproteq_logo_svg_fusion.svg" width="450" /></a>
+ <img src="https://reproteq.com/vendor/shop/themes/default/media/reproteq_logo_svg_fusion.svg" width="450" /
 </p>
  
  
